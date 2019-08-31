@@ -2,3 +2,4 @@
 "Zelda"
 "Navi"
 "Epona"
+"Tingle"
